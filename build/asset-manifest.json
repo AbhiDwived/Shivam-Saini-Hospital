@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.03231eaa.js",
+    "static/media/SainiBanner2.png": "/static/media/SainiBanner2.d5314d15100e29eb5450.png",
+    "static/media/Sainibanner.jpg": "/static/media/Sainibanner.b992c50d96b36477cfe3.jpg",
+    "static/media/banner4.jpg": "/static/media/banner4.3c83482bb7bcda3df6df.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.f5d72d277b636746fc3a.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.110c98e243f218475833.jpg",
+    "static/media/findDoctor.jpg": "/static/media/findDoctor.9516b3bb1872f9f87f74.jpg",
+    "static/media/banner.png": "/static/media/banner.7ed5e52e14305d839bb7.png",
+    "static/media/banner1.jpg": "/static/media/banner1.d3681fbf11864c8d01df.jpg",
+    "static/media/checkup2.webp": "/static/media/checkup2.8d63ae603be1487037cd.webp",
+    "static/media/checkup6.webp": "/static/media/checkup6.e0fed2ef69ce25ed6edc.webp",
+    "static/media/checkup4.webp": "/static/media/checkup4.ba6bb936a83caedc51b7.webp",
+    "static/media/checkup3.webp": "/static/media/checkup3.a5524d769ed285549ac7.webp",
+    "static/media/checkup5.webp": "/static/media/checkup5.36aa7057c078ea134511.webp",
+    "static/media/checkup1.webp": "/static/media/checkup1.7a462ac0869bd9785de6.webp",
+    "index.html": "/index.html",
+    "main.03231eaa.js.map": "/static/js/main.03231eaa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.03231eaa.js"
+  ]
+}
